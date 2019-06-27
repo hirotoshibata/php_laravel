@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    ホゲホゲ
                 </div>
 
                 <div class="links">
